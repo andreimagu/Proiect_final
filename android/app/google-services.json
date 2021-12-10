@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54535948890",
+    "project_id": "yts-project-86c45",
+    "storage_bucket": "yts-project-86c45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54535948890:android:42fef330aac251f9d2a663",
+        "android_client_info": {
+          "package_name": "com.example.tema5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54535948890-t2l8ouuk2shiq0v3argv5d2ban5jm9mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUNKMe39Sld9iZz_DNlwgfEcaJe9w_Zlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54535948890-t2l8ouuk2shiq0v3argv5d2ban5jm9mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
